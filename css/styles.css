@@ -44,7 +44,7 @@ header{
 }
 @media (max-width:250px) {
     header{
-        background-image: url(../media/download.jpeg);
+        background-image: url(./media/download.jpeg);
         display: flex;
         background-repeat: no-repeat;
         background-size: cover;
